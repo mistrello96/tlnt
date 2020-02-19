@@ -1,0 +1,324 @@
+Check if seen state in seen time slice is still a state
+UnitedKingdom 0.99 
+Netherlands 0.87 
+Poland 0.99 
+Australia 0.99 
+Iran 0.87 
+Iraq 0.99 
+UnitedStates 0.65 
+Italy 0.99 
+Germany 0.87 
+France 0.99 
+Check if seen state in unseen time slice is still a state
+UnitedKingdom 0.99 
+Netherlands 0.87 
+Poland 0.38 
+Australia 0.65 
+Iran 0.87 
+Iraq 0.87 
+UnitedStates 0.65 
+Italy 0.99 
+Germany 0.99 
+France 0.95 
+Check if unseen state in seen time slice is still a state
+Afghanistan 0.98 
+Belgium 0.87 
+Brazil 0.98 
+Egypt 0.98 
+Portugal 0.38 
+Check if unseen state in unseen time slice is still a state
+Afghanistan 0.87 
+Belgium 0.01 
+Brazil 0.99 
+Egypt 0.99 
+Portugal 0.88 
+Check if seen actor in seen time slice is still a actor
+MarlonBrando 0.99 
+JackNicholson 0.99 
+RobertDeNiro 0.99 
+AlPacino 0.99 
+DanielDay-Lewis 0.99 
+DustinHoffman 0.99 
+TomHanks 0.99 
+AnthonyHopkins 0.99 
+Check if seen actor in unseen time slice is still a actor
+MarlonBrando 0.97 
+JackNicholson 0.9 
+RobertDeNiro 0.98 
+AlPacino 0.96 
+DanielDay-Lewis 0.96 
+DustinHoffman 0.07 
+TomHanks 0.98 
+AnthonyHopkins 0.86 
+Check if unseen actor in seen time slice is still a actor
+DenzelWashington 0.99 
+SeanPenn 0.99 
+MorganFreeman 0.99 
+JeffBridges 0.98 
+Check if unseen actor in unseen time slice is still a actor
+DenzelWashington 0.99 
+SeanPenn 0.92 
+MorganFreeman 0.89 
+JeffBridges 0.98 
+Check if seen company in seen time slice is still a company
+AppleInc 0.98 
+IBM 0.98 
+Hewlett-Packard 0.98 
+Dell 0.98 
+Microsoft 0.85 
+Amazoncom 0.98 
+Intel 0.98 
+AdvancedMicroDevices 0.97 
+Check if seen company in unseen time slice is still a company
+AppleInc 0.98 
+IBM 0.98 
+Hewlett-Packard 0.98 
+Dell 0.95 
+Microsoft 0.82 
+Amazoncom 0.87 
+Intel 0.98 
+Check if unseen company in seen time slice is still a company
+Samsung 0.98 
+Oracle 0.74 
+Sony 0.98 
+Motorola 0.86 
+Check if unseen company in unseen time slice is still a company
+Samsung 0.7 
+Facebook 0.98 
+Oracle 0.7 
+Sony 0.97 
+Motorola 0.76 
+Check if types are separated correclty in seen time slice
+not Companies
+UnitedKingdom 0.02 
+Netherlands 0.03 
+Poland 0.28 
+Australia 0.41 
+Iran 0.03 
+Iraq 0.03 
+UnitedStates 0.03 
+Italy 0.03 
+Germany 0.02 
+France 0.03 
+MarlonBrando 0.02 
+JackNicholson 0.02 
+RobertDeNiro 0.02 
+AlPacino 0.02 
+DanielDay-Lewis 0.02 
+DustinHoffman 0.02 
+TomHanks 0.02 
+AnthonyHopkins 0.02 
+DenzelWashington 0.02 
+SeanPenn 0.02 
+MorganFreeman 0.02 
+JeffBridges 0.02 
+Afghanistan 0.03 
+Belgium 0.03 
+Brazil 0.03 
+Egypt 0.08 
+Portugal 0.03 
+not States
+AppleInc 0.13 
+IBM 0.13 
+Hewlett-Packard 0.01 
+Dell 0.01 
+Microsoft 0.13 
+Amazoncom 0.13 
+Intel 0.01 
+AdvancedMicroDevices 0.01 
+MarlonBrando 0.01 
+JackNicholson 0.01 
+RobertDeNiro 0.01 
+AlPacino 0.01 
+DanielDay-Lewis 0.01 
+DustinHoffman 0.01 
+TomHanks 0.01 
+AnthonyHopkins 0.01 
+Samsung 0.01 
+Oracle 0.01 
+Sony 0.13 
+Motorola 0.13 
+DenzelWashington 0.01 
+SeanPenn 0.01 
+MorganFreeman 0.01 
+JeffBridges 0.01 
+not Actors
+UnitedKingdom 0.01 
+Netherlands 0.01 
+Poland 0.01 
+Australia 0.01 
+Iran 0.08 
+Iraq 0.08 
+UnitedStates 0.01 
+Italy 0.01 
+Germany 0.01 
+France 0.01 
+AppleInc 0.01 
+IBM 0.01 
+Hewlett-Packard 0.01 
+Dell 0.01 
+Microsoft 0.01 
+Amazoncom 0.01 
+Intel 0.01 
+AdvancedMicroDevices 0.02 
+Samsung 0.02 
+Oracle 0.35 
+Sony 0.01 
+Motorola 0.01 
+Afghanistan 0.03 
+Belgium 0.01 
+Brazil 0.01 
+Egypt 0.01 
+Portugal 0.04 
+Check if types are separated correclty in unseen time slice
+not Companies
+UnitedKingdom 0.02 
+Netherlands 0.03 
+Poland 0.75 
+Australia 0.02 
+Iran 0.03 
+Iraq 0.03 
+UnitedStates 0.03 
+Italy 0.02 
+Germany 0.02 
+France 0.02 
+MarlonBrando 0.02 
+JackNicholson 0.03 
+RobertDeNiro 0.02 
+AlPacino 0.04 
+DanielDay-Lewis 0.08 
+DustinHoffman 0.82 
+TomHanks 0.02 
+AnthonyHopkins 0.14 
+DenzelWashington 0.02 
+SeanPenn 0.06 
+MorganFreeman 0.11 
+JeffBridges 0.02 
+Afghanistan 0.41 
+Belgium 0.2 
+Brazil 0.02 
+Egypt 0.02 
+Portugal 0.02 
+not States
+AppleInc 0.1 
+IBM 0.01 
+Hewlett-Packard 0.01 
+Dell 0.01 
+Microsoft 0.01 
+Amazoncom 0.01 
+Intel 0.01 
+MarlonBrando 0.01 
+JackNicholson 0.01 
+RobertDeNiro 0.01 
+AlPacino 0.01 
+DanielDay-Lewis 0.01 
+DustinHoffman 0.02 
+TomHanks 0.01 
+AnthonyHopkins 0.01 
+Samsung 0.01 
+Facebook 0.01 
+Oracle 0.01 
+Sony 0.04 
+Motorola 0.01 
+DenzelWashington 0.01 
+SeanPenn 0.01 
+MorganFreeman 0.01 
+JeffBridges 0.01 
+not Actors
+UnitedKingdom 0.01 
+Netherlands 0.01 
+Poland 0.01 
+Australia 0.03 
+Iran 0.08 
+Iraq 0.08 
+UnitedStates 0.2 
+Italy 0.01 
+Germany 0.01 
+France 0.01 
+AppleInc 0.01 
+IBM 0.02 
+Hewlett-Packard 0.01 
+Dell 0.28 
+Microsoft 0.01 
+Amazoncom 0.01 
+Intel 0.01 
+Samsung 0.15 
+Facebook 0.01 
+Oracle 0.17 
+Sony 0.01 
+Motorola 0.31 
+Afghanistan 0.08 
+Belgium 0.39 
+Brazil 0.01 
+Egypt 0.23 
+Portugal 0.01 
+Check if multy-entity relations are learned correctly
+0.97
+0.85
+0.98
+0.78
+0.85
+0.92
+0.97
+0.85
+0.85
+0.97
+0.85
+0.85
+0.47
+0.53
+0.85
+0.97
+0.85
+0.98
+0.47
+0.85
+0.85
+0.15
+0.85
+0.85
+Check if multy entity relations survives time
+0.78
+0.85
+0.92
+0.78
+0.85
+0.98
+0.78
+0.98
+0.78
+0.78
+0.98
+0.85
+0.88
+0.22
+0.98
+0.78
+0.84
+0.92
+0.78
+0.85
+0.85
+0.88
+0.85
+0.85
+Check if multy entity relations works on unseen entities
+DenzelWashington 0.97
+SeanPenn 0.78
+MorganFreeman 0.97
+JeffBridges 0.78
+Check if multy entity relations survives time on unseen entities
+DenzelWashington 0.78
+SeanPenn 0.78
+MorganFreeman 0.78
+JeffBridges 0.78
+Check if rules are learned
+forall ?a : State(?a) -> ~ Actor(?a) & ~ Company(?a) 0.26
+forall ?a : Actor(?a) -> ~ State(?a) & ~ Company(?a) 0.32
+forall ?a : Company(?a) -> ~ State(?a) & ~ Company(?a) 0.18
+forall ?a : Actor(?a) -> Human(?a) 0.85
+forall ?a, ?b : BornIn(?a, ?b) -> Actor(?a) & State(?b) 0.85
+forall ?a, ?b : BornIn(?a, ?b) -> ~ BornIn(?b, ?a) 0.99
+Check if seen unseen human is classified as actor
+BillClinton 0.97 
+BarackObama 0.93

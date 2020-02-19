@@ -1,0 +1,65 @@
+Check if the network has learned axioms
+NatoPresence
+0.97
+0.86
+0.97
+0.9
+0.97
+0.88
+0.9
+CivilWar
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+0.98
+LeaderOf
+0.26
+0.5
+0.67
+0.7
+0.5
+0.5
+0.47
+0.47
+0.55
+0.58
+0.58
+0.58
+0.58
+Check if enities with semantic shifts invalidates NatoPresence predicates
+Afghanistan1995 0.42
+Iraq1995 0.43
+BosniaandHerzegovina2010 0.57
+Kosovo2005 0.41
+Check if NatoPresence is not overfitting on all states
+France2005 0.9
+Italy2000 0.34
+UnitedStates1995 0.1
+Germany2000 0.9
+Check if enities with semantic shifts invalidates CivilWar predicates
+Slovenia2010 0.0
+Croatia2010 0.23
+BosniaandHerzegovina2005 0.98
+Serbia2005 0.0
+Afghanistan2010 0.03
+Burundi2010 0.95
+Iraq2005 0.49
+Check if unsees entity usually associated with CivilWar satisfies the predicate
+Rwanda1995 0.98
+Rwanda2000 0.98
+Rwanda2005 0.98
+Rwanda2010 0.98
+Check if unsees entity without CivilWar war satisfies the predicate
+Germany1995 0.07
+Germany2000 0.03
+Germany2005 0.04
+Germany2010 0.0
